@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Harry
+- 👀 I’m interested in Computing  
+- 🌱 I’m currently learning Python
+- 📫 How to reach me 5fryh55@solent.ac.uk
