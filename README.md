@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Harry
-- 👀 I’m interested in Computing  
-- 🌱 I’m currently learning Python, html, JavaScript
-- 📫 How to reach me 5fryh55@solent.ac.uk
+- 👀 I’m interested in Computing, Data Science and User Experience  
+- 🌱 I’m currently learning Python, html, JavaScript alongside frameworks such as React and next.js
+- 📫 How to reach me: 5fryh55@solent.ac.uk
